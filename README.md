@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Arafat Imtiaz 👋
 
-<!--
-**arafatimtiaz405-max/arafatimtiaz405-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engineering Student | Technology Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about exploring technology, engineering, and innovation. I enjoy learning new things and working on practical projects.
+
+## 🔬 Interests
+- Robotics & Automation
+- Electronics & Embedded Systems
+- Artificial Intelligence (AI)
+- Brain-Computer Interface (BCI)
+- Research & Innovation
+
+## 🛠️ Tools & Technologies
+- Git & GitHub
+- Visual Studio Code
+- MATLAB
+
+## 🎯 Current Goals
+- Improve my programming skills.
+- Build practical engineering projects.
+- Explore AI and embedded systems.
+- Learn and contribute to innovative research.
+
+## 📌 Projects
+More projects coming soon!
+
+---
+
+**Thanks for visiting my profile!**
