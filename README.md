@@ -12,24 +12,23 @@ I'm passionate about exploring technology, engineering, and innovation. I enjoy 
 - Artificial Intelligence (AI)
 - Brain-Computer Interface (BCI)
 - Research & Innovation
+## 💻 Programming Languages
 
-## 💻 Programming Skills
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-| Language | Proficiency |
-|---|---|
-| C | Intermediate |
-| C++ | Intermediate |
+## 🛠️ Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### Core Concepts
 - Object-Oriented Programming (OOP)
 - Arrays and Pointers
 - Structures
 - Functions and Control Flow
-
-## 🛠️ Tools & Technologies
-- Git & GitHub
-- Visual Studio Code
-- MATLAB
 
 ## 🎯 Current Goals
 - Strengthen my programming and problem-solving skills.
